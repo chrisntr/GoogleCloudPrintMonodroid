@@ -1,0 +1,12 @@
+/Users/justinmoses/Projects/GoogleCloudPrint/GoogleCloudPrint/bin/Debug/GoogleCloudPrint.dll.mdb
+/Users/justinmoses/Projects/GoogleCloudPrint/GoogleCloudPrint/bin/Debug/GoogleCloudPrint.dll
+/Users/justinmoses/Projects/GoogleCloudPrint/GoogleCloudPrint/bin/Debug/GoogleCloudPrint.GoogleCloudPrint.apk
+/Users/justinmoses/Projects/GoogleCloudPrint/GoogleCloudPrint/obj/Debug/android/bin/GoogleCloudPrint.GoogleCloudPrint.apk
+/Users/justinmoses/Projects/GoogleCloudPrint/GoogleCloudPrint/obj/Debug/res/values/strings.xml
+/Users/justinmoses/Projects/GoogleCloudPrint/GoogleCloudPrint/obj/Debug/res/drawable/icon.png
+/Users/justinmoses/Projects/GoogleCloudPrint/GoogleCloudPrint/obj/Debug/res/layout/main.xml
+/Users/justinmoses/Projects/GoogleCloudPrint/GoogleCloudPrint/obj/Debug/R.cs.flag
+/Users/justinmoses/Projects/GoogleCloudPrint/GoogleCloudPrint/bin/Debug/GoogleCloudPrint.GoogleCloudPrint-Signed.apk
+/Users/justinmoses/Projects/GoogleCloudPrint/GoogleCloudPrint/obj/Debug/uploadflags.txt
+/Users/justinmoses/Projects/GoogleCloudPrint/GoogleCloudPrint/obj/Debug/GoogleCloudPrint.dll
+/Users/justinmoses/Projects/GoogleCloudPrint/GoogleCloudPrint/obj/Debug/GoogleCloudPrint.dll.mdb

@@ -1,0 +1,2 @@
+/Users/justinmoses/Projects/GoogleCloudPrint/GoogleCloudPrint/bin/Debug/GoogleCloudPrint.dll
+/Users/justinmoses/Projects/GoogleCloudPrint/GoogleCloudPrint/bin/Debug/CloudPrint.dll

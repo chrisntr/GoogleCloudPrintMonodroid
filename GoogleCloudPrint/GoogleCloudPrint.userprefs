@@ -1,0 +1,38 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="GoogleCloudPrint/GoogleCloudPrint.cs">
+    <Files>
+      <File FileName="GoogleCloudPrint/Main.cs" Line="29" Column="5" />
+      <File FileName="GoogleCloudPrint/Resources/AboutResources.txt" Line="1" Column="1" />
+      <File FileName="GoogleCloudPrint/Properties/AndroidManifest.xml" Line="4" Column="78" />
+      <File FileName="GoogleCloudPrint/Assets/AboutAssets.txt" Line="16" Column="1" />
+      <File FileName="GoogleCloudPrint/Resources/drawable/GoogleCloudPrint.cs" Line="8" Column="5" />
+      <File FileName="GoogleCloudPrint/GoogleCloudPrint.cs" Line="48" Column="75" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State expanded="True">
+          <Node name="GoogleCloudPrint" expanded="True">
+            <Node name="References" expanded="True">
+              <Node name="System.Json, Version=2.0.5.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e" selected="True" />
+            </Node>
+            <Node name="Assets" expanded="True" />
+            <Node name="Properties" expanded="True" />
+            <Node name="Resources" expanded="True">
+              <Node name="drawable" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/justinmoses/Projects/GoogleCloudPrint/CloudPrint/GoogleCloudPrint.cs" line="82" />
+      <Breakpoint file="/Users/justinmoses/Projects/GoogleCloudPrint/CloudPrint/GoogleCloudPrint.cs" line="168" />
+      <Breakpoint file="/Users/justinmoses/Projects/GoogleCloudPrint/GoogleCloudPrint/Main.cs" line="29" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.GoogleCloudPrint AndroidDeviceId-Debug="C4F122D04187E7E" />
+</Properties>
