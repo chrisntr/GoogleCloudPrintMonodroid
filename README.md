@@ -1,6 +1,14 @@
 GoogleCloudPrintMonodroid
 =========================
 
+Credits : Most of the code I lifted from this stackoverflow post by 
+
+http://stackoverflow.com/users/592321/deevodavis
+
+So all Kudos can go to him.
+
+http://stackoverflow.com/questions/7846064/google-cloud-print-using-c-sharp/10187558#10187558
+
 Google Cloud Print Monodroid
 
 Released under MIT License
